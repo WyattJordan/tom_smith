@@ -10,7 +10,7 @@ Attempt to parallelize
 3. Make it a group effort? open source so users can help crawl?
 4. Buy 30 raspberry pi's (or a similar board) and have them make the api requests
 
-Dynamically update readme as more is parsed with stats:
+Dynamically update readme as more is parsed with stats:  
   *Current number of users parsed
   *Most common name overall
   *Most common name per language
@@ -18,7 +18,6 @@ Dynamically update readme as more is parsed with stats:
   *Average number of lines of code? or size of memory used?
   *Brainstorm more interesting stats (check JSON data from user API request)
 
-Tips for making the program able to stop/start whenever:
+Tips for making the program able to stop/start whenever:  
   *Keep account creation date ranges for parsed and unparsed users
   *Have the program pull the most up-to-date stats and combine with the acquired data just before pushing
-  *
