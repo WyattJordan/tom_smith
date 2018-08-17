@@ -4,6 +4,7 @@ Ever wondered who in your office has the typical name for a coder? So have I, so
 ## Some implementation notes for me
 
 Use pygithub3 (https://github.com/PyGithub/PyGithub)  
+  
 Attempt to parallelize 
 1. See if one program can have multiple log-ins (probs not)
 2. Create virtual machines of some sort to simulate multiple computers
