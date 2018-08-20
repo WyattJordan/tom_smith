@@ -1,2 +1,2 @@
-$GIT_DIR/token.txt
-*.~
+$GIT_DIR/credentials.txt
+*~
